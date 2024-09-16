@@ -1,4 +1,4 @@
-# Sniffer de Pacotes em Python
+# Argus - Sniffer básico de Pacotes em Python
 
 Este projeto é um sniffer de pacotes em Python, desenvolvido para capturar e analisar pacotes de rede em tempo real. O sniffer utiliza sockets para capturar frames Ethernet e pacotes IP, e fornece informações detalhadas sobre protocolos como TCP, UDP e ICMP.
 ## Funcionalidades
@@ -17,9 +17,9 @@ Este projeto é um sniffer de pacotes em Python, desenvolvido para capturar e an
 Clone este repositório e execute o script sniffer.py com permissões administrativas para capturar pacotes de rede:
 
 ```bash
-git clone https://github.com/seu_usuario/seu_repositorio.git
-cd seu_repositorio
-sudo python3 sniffer.py
+git clone https://github.com/JoaoGabrielBr246/Argus.git
+cd Argus
+sudo python3 argus.py
 ```
 
 ## Uso
